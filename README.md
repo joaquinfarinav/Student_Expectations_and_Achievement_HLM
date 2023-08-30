@@ -1,1 +1,3 @@
 # student_expectations_achievement_HLM
+
+This paper explores the potential of non-cognitive student traits, specifically student expectations about their future education level, to improve academic achievement in developing countries where resources are limited. I investigate the relationship between student expectations and academic achievement, focusing on individual and contextual factors. Through a two-level model Hierarchical Linear Model I find that at student and school levels, student expectations are significant to math achievement, and I identify several covariates that moderate that relation.
